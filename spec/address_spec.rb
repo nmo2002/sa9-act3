@@ -1,4 +1,4 @@
-require_relative 'address'
+require 'address'
 
 RSpec.describe Address do
   describe "#initialize" do
